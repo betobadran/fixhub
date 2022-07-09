@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fixhubcore", "fixhubcore\fixhubcore.csproj", "{2E07088F-975D-48DE-A831-0E69881185CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fixhubtest", "fixhubtest\fixhubtest.csproj", "{B7E079DB-62F6-444B-8211-74B0A4FBDA83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E07088F-975D-48DE-A831-0E69881185CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E07088F-975D-48DE-A831-0E69881185CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E07088F-975D-48DE-A831-0E69881185CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E07088F-975D-48DE-A831-0E69881185CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E079DB-62F6-444B-8211-74B0A4FBDA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E079DB-62F6-444B-8211-74B0A4FBDA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E079DB-62F6-444B-8211-74B0A4FBDA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E079DB-62F6-444B-8211-74B0A4FBDA83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
