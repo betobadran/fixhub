@@ -10,6 +10,7 @@ namespace br.com.badr.etd
 
         [Test]
         public void test() {
+            Console.WriteLine("Teste Ok");
             Assert.Pass();
         }
     }
